@@ -1,0 +1,3 @@
+"userStoryId","priority","description","startDate","completionDate","userRequesting","state","dateStateChanged","cardType"
+"UNASSIGNED","-1","Blank Story","2015-03-06","2015-03-06","UNASSIGNED","UNASSIGNED","2015-03-06","User Story"
+"USER Story 001","0","This is a sample project","2015-03-07","2015-03-07","Project_Manager","TO DO","2015-03-07","User Story"
